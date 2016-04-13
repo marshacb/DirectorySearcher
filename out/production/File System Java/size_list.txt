@@ -1,0 +1,15 @@
+
+ Method: getSize File: C:\File System Java\test.txt Size: 30
+
+
+ Method: getSize File: C:\File System Java\test.txt Size: 30
+
+
+ Method: getSize File: C:\File System Java\test.txt Size: 30
+
+
+ Method: getSize File: C:\File System Java\test.txt Size: 30
+
+
+ Method: getSize File: C:\File System Java\file_list.txt Size: 14574
+
